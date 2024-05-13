@@ -27,9 +27,10 @@ Experience the convenience and reliability of Sathi Cabs for all your transporta
 
 <div align="center">
 <img align="center" src="https://github.com/0virusdetect/sathi/assets/47599266/07318def-a406-442d-9f7a-ca47e7947ae9" width="170" height="370">
-</div>
 <img align="center" src="https://github.com/0virusdetect/sathi/assets/47599266/7183f109-2750-49fa-a825-146613c6e91f" width="170" height="370">
 <img align="center" src="https://github.com/0virusdetect/sathi/assets/47599266/add8fe68-083d-4471-8d31-384b452e6dfd" width="170" height="370">
+</div>
+
 <img align="center" src="https://github.com/0virusdetect/sathi/assets/47599266/558f8d39-4c08-4fc7-9961-b964f44c79e7" width="170" height="370">
 <img align="center" src="https://github.com/0virusdetect/sathi/assets/47599266/75aba16e-0311-44ec-ba0e-79a8e81f8a6f" width="170" height="370">
 <img align="center" src="https://github.com/0virusdetect/sathi/assets/47599266/03923861-9c92-4c84-a914-8d3d4dfdd74c" width="170" height="370">
