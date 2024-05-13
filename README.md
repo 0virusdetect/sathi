@@ -24,8 +24,9 @@ Furthermore, our platform offers the flexibility of choosing between one-way and
 Signing up for Sathi Cabs is a breeze, thanks to our seamless integration with Google accounts. With just a few clicks, customers can create an account and start booking their rides with ease. Our user-friendly interface further enhances the booking experience, ensuring a smooth and efficient process from start to finish.
 
 Experience the convenience and reliability of Sathi Cabs for all your transportation needs, and enjoy hassle-free travel every time.
-
-<img align="center" src="https://github.com/0virusdetect/sathi/assets/47599266/07318def-a406-442d-9f7a-ca47e7947ae9" width="170" height="370">
+<div align="center">
+<img src="https://github.com/0virusdetect/sathi/assets/47599266/07318def-a406-442d-9f7a-ca47e7947ae9" width="170" height="370">
+</div>
 <img align="center" src="https://github.com/0virusdetect/sathi/assets/47599266/7183f109-2750-49fa-a825-146613c6e91f" width="170" height="370">
 <img align="center" src="https://github.com/0virusdetect/sathi/assets/47599266/add8fe68-083d-4471-8d31-384b452e6dfd" width="170" height="370">
 <img align="center" src="https://github.com/0virusdetect/sathi/assets/47599266/558f8d39-4c08-4fc7-9961-b964f44c79e7" width="170" height="370">
